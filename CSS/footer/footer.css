@@ -1,0 +1,14 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+}
+footer .logo {
+  display: flex;
+  font-size: 36px;
+}
+footer .logo span:last-child {
+  color: #939393;
+}
+footer .textblock {
+  margin-top: 24px;
+}/*# sourceMappingURL=footer.css.map */

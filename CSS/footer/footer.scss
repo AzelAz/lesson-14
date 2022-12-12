@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+
+    .logo  {
+        display: flex;
+        font-size: 36px;
+    
+        span:last-child {
+            color: #939393;
+        }
+    }
+
+    .textblock {
+        margin-top: 24px;
+    }
+}
